@@ -1,0 +1,10 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢‡–¶üÿÿÿÿ
+<	java:S131$""Add a default case to this switch.(Ò‘¿úÿÿÿÿ
+f
+java:S13018"KReplace this "switch" statement by "if" statements to increase readability.(Áå¥Ûûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÙ›ÿÿÿÿÿ
+<	java:S1318""Add a default case to this switch.(Áå¥Ûûÿÿÿÿ
+i	java:S116"TRename this field "CREATEEMP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±®úŸ
+f
+java:S1301$"KReplace this "switch" statement by "if" statements to increase readability.(Ò‘¿úÿÿÿÿ

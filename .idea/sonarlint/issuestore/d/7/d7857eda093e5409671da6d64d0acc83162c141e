@@ -1,0 +1,7 @@
+
+q
+java:S1450
+"VRemove the "request" field and declare it as a local variable in the relevant methods.(ì°Ù¯úÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ßíËÚ
+<	java:S131""Add a default case to this switch.(óû»—þÿÿÿÿ

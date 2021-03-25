@@ -1,6 +1,5 @@
 package utils;
 
 public enum Keys {
-	URL,WEBDRIVER;
-
+    URL, WEBDRIVER, BROWSER, USERNAME, PASSWORD, RESPONSE, REPORT, SCENARIO, REQUEST;
 }

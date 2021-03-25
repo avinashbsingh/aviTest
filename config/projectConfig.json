@@ -1,0 +1,20 @@
+{
+  "INDIA": {
+    "DEV": {
+      "URL": "https://www.google.com/",
+      "USERNAME": "UserName",
+      "PASSWORD": "Password"
+    },
+    "Env1": {
+      "URL": "eNV1",
+      "USERNAME": "",
+      "PASSWORD": ""
+    },
+    "Env2": {
+      "URL": "eNV2",
+      "USERNAME": "",
+      "PASSWORD": ""
+    }
+  }
+
+}
